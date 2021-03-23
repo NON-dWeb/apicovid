@@ -1,0 +1,16 @@
+h2 {
+    background-color: orange;
+}
+
+body {text-align:center;
+margin-top:10px;
+background-color: rgb(216,191,216);
+}
+
+article {margin-top:20px;
+    }
+
+    ul {
+        list-style-type: none;
+        }
+
